@@ -1,6 +1,6 @@
 # sort_visualizer
 ![](preview.png)
-![](preview.mp4)
+![](https://im4.ezgif.com/tmp/ezgif-4-eee9cd31a2dd.gif)
 
 A new Flutter project.
 

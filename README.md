@@ -1,5 +1,7 @@
 # sort_visualizer
 ![](preview.png)
+![](preview.mp4)
+
 A new Flutter project.
 
 ## Getting Started

@@ -1,5 +1,5 @@
 # sort_visualizer
-https://github.com/nikhil19rathore99/Sort-Visualizer/blob/master/preview.png
+![](preview.png)
 A new Flutter project.
 
 ## Getting Started
